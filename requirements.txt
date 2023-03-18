@@ -1,0 +1,6 @@
+django>=3.2.14
+newsapi
+pandas
+datapane
+newsapi-python
+django_tables2
